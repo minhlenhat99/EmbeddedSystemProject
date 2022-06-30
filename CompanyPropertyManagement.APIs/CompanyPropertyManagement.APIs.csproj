@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CompanyPropertyManagement.Data\CompanyPropertyManagement.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Mapper\" />
+  </ItemGroup>
+
 </Project>

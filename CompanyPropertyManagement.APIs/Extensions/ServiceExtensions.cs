@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CompanyPropertyManagement.APIs
+namespace CompanyPropertyManagement.APIs.Extensions
 {
     public static class ServiceExtensions
     {
